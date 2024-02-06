@@ -1,1 +1,3 @@
 # mentor_recommender
+
+This GitHub repository contains code for a comprehensive natural language processing (NLP) project. It includes scripts for web scraping to collect data, cosine similarity calculation for measuring distance between text embeddings, clustering algorithms for grouping similar data points, and transfer learning using BERT (Bidirectional Encoder Representations from Transformers) for fine-tuning on specific NLP tasks. The repository provides a framework for various NLP tasks such as data collection, data pre-processing, similarity analysis, clustering, and model fine-tuning, offering a versatile toolkit for NLP enthusiasts and practitioners.
